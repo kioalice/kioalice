@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=kioalice&color=blueviolet&style=for-the-badge">
 </div>
 
-<img align="center" style="text-align: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kioalice&layout=compact&theme=buefy"/>
+<img style="text-align: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kioalice&layout=compact&theme=buefy"/>
 
 <!--
 **kioalice/kioalice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
