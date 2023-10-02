@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=500&size=50&duration=6000&pause=1000&color=8756F7&background=361EFF00&center=true&vCenter=true&width=435&lines=Hi%F0%9F%91%8B+I'm+Mila;%E2%9C%A8Welcome+to+my+Github%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=35&size=50&duration=6000&pause=1000&color=8756F7&background=361EFF00&center=true&vCenter=true&width=1000&lines=Hi%F0%9F%91%8B+I'm+Mila;++%E2%9C%A8Welcome+to+my+Github%E2%9C%A8)](https://git.io/typing-svg)
 
 <!--
 **kioalice/kioalice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
