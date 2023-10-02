@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/camrifolagos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   <img src="https://komarev.com/ghpvc/?username=kioalice&color=blueviolet&style=for-the-badge">
 </div>
+
+<img align="center" style="text-align: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kioalice&layout=compact&theme=buefy"/>
+
 <!--
 **kioalice/kioalice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
